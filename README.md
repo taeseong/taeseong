@@ -1,7 +1,5 @@
 ### About
 
-Thanks for visiting my GitHub!
-
 Software engineer and development manager with extensive experience in backend development, technical leadership, and enterprise software development.
 I have a particular interest in software quality, testing, automation, and open-source contribution.
 
