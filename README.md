@@ -12,7 +12,7 @@ I have a particular interest in software quality, testing, automation, and open-
 
 #### 2026
 
-National SW Testing Competition | Award of Excellence | GICON
+National SW Testing Competition | Fourth Prize | GICON
 
 #### 2024
 
